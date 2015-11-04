@@ -1,0 +1,54 @@
+﻿Yeni TXT
+
+Ufuk abinin önerileri
+1) neden çift tıkladığında edit oluyor? tek tıkladığında neden edit etmiyor bir kere tıklayınca hem seçsin
+hem edit etsin daha kullanışlı olur bence
+2) neden drag drop da sadece bir adım alabiliyor ki adam istediği kadar adımı alsın taşısın mantıklı değil
+mi?
+3) sol üst köşede kayıtlı dosyalar görünür ordan drag drop yapabilirsiniz mesela olmaz mı o?
+4) indent biraz daha belli olsun az indent etmişsiniz çok iyi belli olmuyor
+5) if ve while için conditionlara nested condition verebilse hoş olur if( mesela (a ve b) veya c )) koyabilsin
+6) ufuk: -bir düğmeye bastığında sana kod çıkarsa kullanırdım da kağıt kalem daha hızlı şimdi
+saygın:- ama belki comment çıkarabilir altını sen doldurursun gibi bir şey olur
+ufuk:- hah işte o zaman iyi olur belki ama yine de if'leri while ları falan hazırlasın benim için o zaman vakit
+kazandırır bayağı..
+7) mutlaka find, find/replace koyun bak o olmazsa bu bir hiç
+8) if ve while için farklı görünümlü satırlar olursa daha iyi burda çok iyi anlaşılmıyor 
+(eski halini daha çok sevdi)
+9) RPC yi çok beğendi oha bu o kadar kolay değil yalnız iyiymiş bu
+10) Variable değerleri falan da verilirse debug gibi işler dedim, yok artık :D dedi sonra da ana valla iyi olur
+dedi :D //saygın
+
+
+-----
+10) RPC de başa dönmeme meselesi
+14) RPC'de takip etme meselesi :(
+17) help
+18) jar
+
+22) örnek algoritmalar yazılıp bir kütüpane oluşturulacak
+-binary search
+-average calculator
+-find the gcd
+-ikea algoritmaları :P
+-selection sort gibi.. ( Array de mi eklesek.. :D )
+23) Source code düzenli hale getirilecek :(
+
+--Ek özellikler
+22) variable türleri eklensin
+23) variable'ler değer tutabilsin
+24) kutunun variable içeriğini göstermenin bir yolunu bulalım
+25) VariablePanel'de türünü yazalım, değerini yazalım, türü için combo box kullanalım
+26) Java, C#, C++, Python gibi dillere export seçeneğimiz olsun ( comment halinde export edip if'leri ve
+public static void main( String[] args){  ı yazsın mesela.. ( ProjectName.java dosyası oluşrualım yani..)
+problem description da header comment falan olur yani :D
+26,5) bazı keyword ler konur, define a, denir burda a bir int ise exportta int a; yı da yazar mesela..
+27) Author eklenebilir..
+28) spell checker eklenebilir :(
+29) OOP tasarımı için class editor eklenebilir, export da private int bilmemne gibi şeyler yazılıp verilebilir..
+30) UML editor eklenebilir (ÇÜŞ deme zamanı geldi mi ki :D :D ), ona göre adam inheritance yapabilir
+31) bu class editor ile yarattığı objeleri de variable türü gibi pseudo code içine yerleştirebilir
+32) undo
+8) new project, load project ve kapanma gibi durumlarda save edilsin mi baak! diye sorsun
+
+

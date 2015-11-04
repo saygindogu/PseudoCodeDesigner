@@ -1,0 +1,31 @@
+2) menuBar basýlýnca kapansýn
+
+3) sol üst panele ne gelecek?
+
+4) AVD
+
+5) RPC
+
+6) HELP!
+
+7) yeni projenin ismini belirleyip formun en üstüne gelcek save dendiðinde ismi o olsun save ettikten sonra kaydedildi yazsýn
+
+8) save as yapalým
+
+9) change project name olsun
+
+10) load ederken, kapatýrken ve kaydetmezken yaptýðý herþeyiyle deðiþlikler kaydedilsin mi diye sorsun
+
+12) new mehod bitsin
+
+13) popup sað click teki option seçiminden sonra gitsin
+
+14)  güzel bir gikir geldi, variable listten variable tutup bir step e atsa o step e  o variable eklense çok hoþ olmaz mý :D 
+
+15) insert method bitsin
+
+16) varaible adýný deðiþtirirken o remove ile done gitmesin
+
+17) sað click methodda sýkýntý var
+
+18) drag drop da çocklar atlamýyor

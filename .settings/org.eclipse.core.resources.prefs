@@ -1,0 +1,16 @@
+eclipse.preferences.version=1
+encoding//src/pcd/OptionsGUI.java=UTF-8
+encoding//src/pcd/PCDTreeTransferHandler.java=UTF-8
+encoding//src/pcd/Project.java=UTF-8
+encoding//src/pcd/PseudoCodeDesigner.java=UTF-8
+encoding//src/pcd/step/PCDTreeNode.java=UTF-8
+encoding//src/pcd/step/PseudoCodeStepTree.java=UTF-8
+encoding//src/pcd/step/Step.java=UTF-8
+encoding//src/pcd/step/StepEditor.java=UTF-8
+encoding//src/pcd/step/StepEditorPanel.java=UTF-8
+encoding//src/pcd/step/StepID.java=UTF-8
+encoding//src/pcd/step/StepRenderer.java=UTF-8
+encoding//src/pcd/step/StepRendererPanel.java=UTF-8
+encoding//src/pcd/variable/Variable.java=UTF-8
+encoding//src/pcd/variable/VariableList.java=UTF-8
+encoding//src/pcd/variable/VariableListPanel.java=UTF-8
